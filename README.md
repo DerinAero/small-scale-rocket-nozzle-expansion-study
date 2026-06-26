@@ -1,7 +1,7 @@
 # Small-Scale Rocket Nozzle Expansion Study
 
 ## Research Paper
-[Open or download the full PDF here](https://raw.githubusercontent.com/DerinAero/small-scale-rocket-nozzle-expansion-study/main/Nozzle_Expansion_Study_v2.pdf)
+[Open or download the full PDF here](https://githubu.com/DerinAero/small-scale-rocket-nozzle-expansion-study/blob/main/paper/Nozzle_Expansion_Study_v2.pdf?raw=1
 
 ## Research Question
 How does a nozzle expansion ratio proxy affect simulated small-scale rocket performance in OpenRocket?
